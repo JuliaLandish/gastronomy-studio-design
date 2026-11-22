@@ -7,14 +7,19 @@
 ### UI Kit
 ![Gastronomy Studio UI Kit](./assets/UI%20KIT.png)
 
-### Главная страница
+### Главная страница и разделы
 ![Main Page](./assets/Main_Page.png)
-
-### Страница рецепта
+![World Flavors Page](./assets/World_Flavors_Page.png)
 ![Recipe Page](./assets/Recipe_Page.png)
+![Global Trends Page](./assets/GlobalTrends_Page.png)
+![Smart Kitchen Page](./assets/SmartKitchen_Page.png)
 
-### Экран настроек профиля
+### Профиль, меню и авторизация
 ![Chef Settings Screen](./assets/Chef_Settings_Screen.png)
+![Menu Guest](./assets/Menu_Guest.png)
+![Menu User](./assets/Menu_User.png)
+![Auth Card](./assets/Auth_Card.png)
+![Registr Card](./assets/Registr_Card.png)
 
 ## Состав проекта
 
