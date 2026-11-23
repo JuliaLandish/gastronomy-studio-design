@@ -1,39 +1,42 @@
+[English](README.md) | [Русский](README.ru.md)
+
 # Gastronomy Studio — UI Kit & Web Screens
 
-Разработала визуальную систему компонентов (**UI Kit**) и макеты экранов для концепта кулинарного веб-сайта и журнала о еде, рецептах и гастрономических трендах. Организовала компоненты по функциональным группам, настроила вложенные Auto Layout, навела порядок в структуре слоёв и подготовила витрину для портфолио и дальнейшей реализации в коде.
+Designed a component-based visual system (**UI Kit**) and web screen mockups for a culinary website and digital magazine focused on food, recipes, and gastronomic trends. Organized components by functional groups, configured nested Auto Layout, structured layers cleanly, and prepared a portfolio showcase ready for front-end implementation.
 
-## Превью проекта
+## Project Preview
 
 ### UI Kit
 ![Gastronomy Studio UI Kit](./assets/UI%20KIT.png)
 
-### Главная страница и разделы
+### Home & Main Sections
 ![Main Page](./assets/Main_Page.png)
 ![World Flavors Page](./assets/World_Flavors_Page.png)
 ![Recipe Page](./assets/Recipe_Page.png)
 ![Global Trends Page](./assets/GlobalTrends_Page.png)
 ![Smart Kitchen Page](./assets/SmartKitchen_Page.png)
 
-### Профиль, меню и авторизация
+### Profile, Menus & Authentication
 ![Chef Settings Screen](./assets/Chef_Settings_Screen.png)
 ![Menu Guest](./assets/Menu_Guest.png)
 ![Menu User](./assets/Menu_User.png)
 ![Auth Card](./assets/Auth_Card.png)
 ![Registr Card](./assets/Registr_Card.png)
 
-## Состав проекта
+## Project Structure
 
-- **UI Kit:** набор повторно используемых элементов интерфейса на базе вложенных Auto Layout и единой структуры слоёв.
-- **Экраны и разделы:** макеты страниц проекта.
+- **UI Kit:** a library of reusable interface elements built with nested Auto Layout and consistent layer naming.
+- **Screens & Sections:** key page layouts covering content browsing, recipes, profile settings, and authentication flows.
 
-## Организация работы
+## Design Approach & Interactivity
 
-- Использованы вложенные **Auto Layout** для аккуратного выравнивания блоков и компонентов.
-- Выстроена единая система нейминга слоёв и контейнеров.
-- Макет выполнен в формате десктопных экранов и базового UI Kit с фокусом на основные сценарии; часть дополнительных состояний и мобильных экранов сознательно вынесена за рамки первой версии ради скорости сборки и запуска живого проекта.
+- Used nested **Auto Layout** for consistent spacing, alignment, and scalable component structure.
+- Established a clear, unified naming system across layers and containers.
+- Designed interactive component states and user flows in Figma, including hover effects, dropdown menus, and navigation transitions triggered from the profile button.
+- Focused the initial release on desktop layouts and core user scenarios; additional states and mobile views were intentionally scoped out of v1 to accelerate development and launch of the live site.
 
-## Статус и планы
+## Status & Roadmap
 
-- Визуальная система компонентов и ключевые экраны оформлены и готовы к просмотру.
-- Интерактивные переходы между разделами в шапке прототипа и отдельные вспомогательные блоки находятся в доработке.
+- The visual component system and core screen layouts are complete and ready for review.
+- Cross-section navigation transitions in the prototype header and several secondary blocks are currently in progress.
 
